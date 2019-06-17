@@ -7,7 +7,8 @@ MagicTime captures your time automatically in the background. It learns, improve
 # How it works
 1. Install MagicTime App on your Mac/Windows one time.
 2. It builds your timesheet in the background.
-3. Review & file in just few seconds 
+3. Review & file in just few seconds.
+
 Thats it!!!
 
 Note: To use MagicTime you need to have an account in [lawgro.com](https://lawgro.com)
